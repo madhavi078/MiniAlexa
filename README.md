@@ -62,17 +62,17 @@ This project is a simple Alexa-like voice assistant implemented in Python. It us
    - Unrecognized Commands: Asks the user to repeat.
 8. Main Loop: Continuously runs the run_alexa() function, making the assistant responsive to new commands.
 
-#Troubleshooting
+# Troubleshooting
 
 1. No Python Found Error: Ensure Python is installed correctly and the environment variables are set up properly.
 2. Microphone Issues: Check if the microphone is correctly configured and accessible by the program.
 3. Speech Recognition Errors: If the assistant is unable to recognize commands, check the microphone sensitivity and ensure proper internet access.
 
-#Contributing
+# Contributing
 
 Feel free to fork the repository and submit pull requests for additional features or bug fixes.
 
-#License
+# License
 
 This project is open-source and free to use for educational and personal purposes.
 
